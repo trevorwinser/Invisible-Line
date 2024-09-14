@@ -110,7 +110,7 @@ function keyPressed() {
     if (key == ' ') {
         paused = !paused;
     }
-    if (key == 'a') {
+    if (key == 'r') {
         rainbow = !rainbow;
         loadPixels();
         if (rainbow) {
