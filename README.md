@@ -18,11 +18,11 @@ R - Toggles rainbow mode which just uses random RGB values instead of random bla
 
 # Example
 
-Video of line movement
+Video of canvas
 
 ![](https://github.com/trevorwinser/Invisible-Line/blob/main/Demo.gif)
 
-Static image of movement
+Static image of canvas
 
 
 ![](https://github.com/trevorwinser/Invisible-Line/blob/main/Demo.png)
