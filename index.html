@@ -1,0 +1,37 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="libraries/p5.js"></script>
+    <style>
+    body {
+        background-color: black;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        margin: 0;
+    }
+
+    canvas {
+        display: block;
+    }
+    </style>
+</head>
+<body>
+    <p style="position:absolute;left:10%;top:40%;">Right Click to add remove a Line</p>
+    <p style="position:absolute;left:10%;top:45%;">Left Click to add a new Line</p>
+    <p style="position:absolute;left:10%;top:50%;">Press SPACE to toggle Lines</p>
+    <p style="position:absolute;left:10%;top:55%;">Press A to toggle rainbow</p>
+    <div id="no-context-menu" class="center">
+        <script src="sketch.js"></script>
+    </div>
+    <script>
+        document.addEventListener('contextmenu', function(event) {
+            event.preventDefault();
+        }, true); 
+      </script>
+</body>
+</html>
