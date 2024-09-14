@@ -16,3 +16,13 @@ Space - Toggles the lines movement, making them invisible.
 
 R - Toggles rainbow mode which just uses random RGB values instead of random black and white pixels.
 
+# Example
+
+Video of line movement
+
+![](https://github.com/trevorwinser/Invisible-Line/blob/main/Demo.gif)
+
+Static image of movement
+
+
+![](https://github.com/trevorwinser/Invisible-Line/blob/main/Demo.png)
