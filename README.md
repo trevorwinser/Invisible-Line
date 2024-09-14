@@ -26,5 +26,8 @@ Video of canvas
 
 Static image of canvas
 
-
 ![](https://github.com/trevorwinser/Invisible-Line/blob/main/Demo.png)
+
+# How to Get Started
+
+This project was run via the VSCode Extension `Live Server`. Cloning the project and running `Open with Live Server` on `index.html` should be sufficient to run the app locally.
